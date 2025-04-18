@@ -8,7 +8,6 @@ This Power BI dashboard analyzes customer transactions from an online retail sto
 ## 🎯 Objectives
 - Analyze sales performance across time and geography.
 - Identify top-selling products and key customer segments.
-- Monitor returns, cancellations, and customer retention patterns.
 - Generate insights to optimize inventory and marketing strategies.
 
 ---
