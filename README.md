@@ -41,7 +41,7 @@ This Power BI dashboard analyzes customer transactions from an online retail sto
 ---
 
 ## 📷 Dashboard Preview
-![Retail Dashboard]([https://raw.githubusercontent.com/moatzm1997/Online-Retail/main/RetailDashboard.png](https://github.com/moatzm1997/TATA/blob/79bab844fc58037343ba957b4f58c1d6b69f27eb/TATA.png))
+![Retail Dashboard](https://github.com/moatzm1997/TATA/blob/79bab844fc58037343ba957b4f58c1d6b69f27eb/TATA.png)
 
 
 
