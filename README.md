@@ -24,16 +24,15 @@ This Power BI dashboard analyzes customer transactions from an online retail sto
 
 ## 📊 Key Metrics
 - Total Revenue
-- Total Orders & Returns
+- Total Orders
 - Customer Lifetime Value (CLV)
 - Top Products by Quantity & Revenue
 - Sales by Country
-- Repeat Customer Rate
 
 ---
 
 ## 🔍 Key Insights
-- The UK generated 80% of total revenue, but had a high return rate (12%).
+- The UK generated 80% of total revenue.
 - A small segment of customers accounted for the majority of revenue (Pareto principle).
 - Seasonal spikes were observed in November and December.
 - Top 5 products consistently drove over 25% of total sales.
